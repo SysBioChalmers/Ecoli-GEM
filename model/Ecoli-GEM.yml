@@ -2,7 +2,7 @@
 - metaData:
     id: "Ecoli-GEM"
     name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
-    date: "2025-06-11"
+    date: "2025-10-30"
     version: ""
     github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
@@ -319,7 +319,8 @@
         - CHEBI:14902
         - CHEBI:26286
         - CHEBI:16109
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/7987e84d-4979-49a1-974e-6d9a36411041
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/7987e84d-4979-49a1-974e-6d9a36411041
       - kegg.compound: C02457
       - metanetx.chemical: MNXM2861
       - sabiork: '2417'
@@ -1946,7 +1947,8 @@
         - CHEBI:21210
         - CHEBI:37012
         - CHEBI:58671
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/a5f22d9e-2c03-4186-94c9-b4a32eb48adb
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/a5f22d9e-2c03-4186-94c9-b4a32eb48adb
       - kegg.compound: C11822
       - metanetx.chemical: MNXM2124
       - sbo: SBO:0000247
@@ -2852,7 +2854,8 @@
       - chebi:
         - CHEBI:63252
         - CHEBI:63251
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3dfebe6c-c2b9-490b-8a0b-a10c16c4700f
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3dfebe6c-c2b9-490b-8a0b-a10c16c4700f
       - kegg.compound: C19975
       - metanetx.chemical: MNXM2851
       - sbo: SBO:0000247
@@ -3123,7 +3126,8 @@
         - CHEBI:11727
         - CHEBI:42422
         - CHEBI:1431
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/f2e806ef-76ea-4ddf-bf89-db7737caa79b
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/f2e806ef-76ea-4ddf-bf89-db7737caa79b
       - hmdb: HMDB00707
       - kegg.compound: C01179
       - metanetx.chemical: MNXM153
@@ -3520,7 +3524,8 @@
         - CHEBI:71038
         - CHEBI:34002
         - CHEBI:70990
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/5bf44b24-e859-4cb6-9efd-d350969bc5f5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/5bf44b24-e859-4cb6-9efd-d350969bc5f5
       - hmdb:
         - HMDB62352
         - HMDB12475
@@ -3547,7 +3552,8 @@
         - CHEBI:11048
         - CHEBI:39978
         - CHEBI:57316
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/52913599-1749-4913-8cc4-b6c15d72ad5e
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/52913599-1749-4913-8cc4-b6c15d72ad5e
       - hmdb: HMDB62259
       - kegg.compound: C01144
       - lipidmaps: LMFA07050153
@@ -3944,7 +3950,8 @@
         - CHEBI:20071
         - CHEBI:33404
         - CHEBI:16510
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/bd10562a-7c1b-4ef8-a422-80f89844ef72
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/bd10562a-7c1b-4ef8-a422-80f89844ef72
       - hmdb: HMDB00700
       - kegg.compound: C01013
       - metanetx.chemical: MNXM872
@@ -3968,7 +3975,8 @@
         - CHEBI:20071
         - CHEBI:33404
         - CHEBI:16510
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/bd10562a-7c1b-4ef8-a422-80f89844ef72
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/bd10562a-7c1b-4ef8-a422-80f89844ef72
       - hmdb: HMDB00700
       - kegg.compound: C01013
       - metanetx.chemical: MNXM872
@@ -3992,7 +4000,8 @@
         - CHEBI:20071
         - CHEBI:33404
         - CHEBI:16510
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/bd10562a-7c1b-4ef8-a422-80f89844ef72
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/bd10562a-7c1b-4ef8-a422-80f89844ef72
       - hmdb: HMDB00700
       - kegg.compound: C01013
       - metanetx.chemical: MNXM872
@@ -4013,7 +4022,8 @@
         - CHEBI:17871
         - CHEBI:20078
         - CHEBI:11835
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/6458b515-6bde-43bf-a85a-1f4c966ad3e6
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/6458b515-6bde-43bf-a85a-1f4c966ad3e6
       - hmdb: HMDB03453
       - kegg.compound: C00969
       - metanetx.chemical: MNXM1526
@@ -4130,7 +4140,8 @@
         - CHEBI:20115
         - CHEBI:1584
         - CHEBI:16530
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/dee66401-4b7f-4203-8ee3-fa61f1f45f03
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/dee66401-4b7f-4203-8ee3-fa61f1f45f03
       - hmdb:
         - HMDB04260
         - HMDB00019
@@ -4517,7 +4528,8 @@
       - chebi:
         - CHEBI:63253
         - CHEBI:63255
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/6ee3d25d-86c2-4734-a684-74b0f8510d20
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/6ee3d25d-86c2-4734-a684-74b0f8510d20
       - kegg.compound: C19945
       - lipidmaps: LMFA07050236
       - metanetx.chemical: MNXM3852
@@ -4617,7 +4629,8 @@
         - CHEBI:1664
         - CHEBI:224037
         - CHEBI:11889
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/aa80c146-8c4c-4ce4-9276-0d8d56942369
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/aa80c146-8c4c-4ce4-9276-0d8d56942369
       - hmdb:
         - HMDB00996
         - HMDB60179
@@ -4690,7 +4703,8 @@
         - CHEBI:11961
         - CHEBI:59888
         - CHEBI:20318
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e90ecce1-b9b5-49f9-85d9-b83421426cbb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e90ecce1-b9b5-49f9-85d9-b83421426cbb
       - hmdb: HMDB00112
       - kegg.compound: C00334
       - kegg.drug: D00058
@@ -4723,7 +4737,8 @@
         - CHEBI:11961
         - CHEBI:59888
         - CHEBI:20318
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e90ecce1-b9b5-49f9-85d9-b83421426cbb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e90ecce1-b9b5-49f9-85d9-b83421426cbb
       - hmdb: HMDB00112
       - kegg.compound: C00334
       - kegg.drug: D00058
@@ -4756,7 +4771,8 @@
         - CHEBI:11961
         - CHEBI:59888
         - CHEBI:20318
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e90ecce1-b9b5-49f9-85d9-b83421426cbb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e90ecce1-b9b5-49f9-85d9-b83421426cbb
       - hmdb: HMDB00112
       - kegg.compound: C00334
       - kegg.drug: D00058
@@ -4813,7 +4829,8 @@
         - CHEBI:20315
         - CHEBI:17836
         - CHEBI:1783
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a5ad09dc-a75c-4ad4-8917-a62ebefdc941
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a5ad09dc-a75c-4ad4-8917-a62ebefdc941
       - hmdb: HMDB01392
       - kegg.compound: C00568
       - kegg.drug: D02456
@@ -4884,7 +4901,8 @@
         - CHEBI:1781
         - CHEBI:16892
         - CHEBI:20312
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/05e806c1-5e9c-4cd7-b31a-1cff94880c8a
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/05e806c1-5e9c-4cd7-b31a-1cff94880c8a
       - kegg.compound: C01279
       - metanetx.chemical: MNXM874
       - sabiork: '5497'
@@ -4937,7 +4955,8 @@
         - CHEBI:44726
         - CHEBI:17847
         - CHEBI:11981
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b1f893aa-04c5-4a93-b65f-6b42cd0dc97f
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b1f893aa-04c5-4a93-b65f-6b42cd0dc97f
       - hmdb:
         - HMDB13762
         - HMDB01858
@@ -6150,7 +6169,8 @@
         - CHEBI:12764
         - CHEBI:57688
         - CHEBI:8956
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d4e9e4f7-3585-4e9c-92d7-3860ef127777
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d4e9e4f7-3585-4e9c-92d7-3860ef127777
       - hmdb:
         - HMDB01550
         - HMDB62625
@@ -6178,7 +6198,8 @@
         - CHEBI:42833
         - CHEBI:22486
         - CHEBI:13766
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/f730ed9b-d11c-482f-a9ba-ac22fc782cc2
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/f730ed9b-d11c-482f-a9ba-ac22fc782cc2
       - kegg.compound: C06735
       - metanetx.chemical: MNXM2212
       - sabiork: '2912'
@@ -6201,7 +6222,8 @@
         - CHEBI:11756
         - CHEBI:41333
         - CHEBI:57286
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e8a0c5c5-e9b1-4f85-94c1-d3d04866d6c9
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e8a0c5c5-e9b1-4f85-94c1-d3d04866d6c9
       - hmdb:
         - HMDB01484
         - HMDB11665
@@ -6232,7 +6254,8 @@
         - CHEBI:17906
         - CHEBI:13767
         - CHEBI:42849
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/c7d3904a-a2ab-4e04-8933-d57d61dca653
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/c7d3904a-a2ab-4e04-8933-d57d61dca653
       - hmdb:
         - HMDB60177
         - HMDB02134
@@ -6592,7 +6615,8 @@
         - CHEBI:19414
         - CHEBI:21602
         - CHEBI:32578
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/685af208-3a2e-4b98-875d-0c9154d9272c
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/685af208-3a2e-4b98-875d-0c9154d9272c
       - kegg.compound: C06332
       - metanetx.chemical: MNXM1939
       - sbo: SBO:0000247
@@ -6613,7 +6637,8 @@
         - CHEBI:13712
         - CHEBI:2408
         - CHEBI:40470
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/57bd5e24-9d14-4b91-bc60-64c8ea6c2d11
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/57bd5e24-9d14-4b91-bc60-64c8ea6c2d11
       - hmdb: HMDB01206
       - kegg.compound: C00024
       - lipidmaps:
@@ -6643,7 +6668,8 @@
         - CHEBI:27957
         - CHEBI:5796
         - CHEBI:24666
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/090b3a12-aba4-4202-9b9c-f30232d329f0
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/090b3a12-aba4-4202-9b9c-f30232d329f0
       - hmdb: HMDB06961
       - kegg.compound: C05235
       - metanetx.chemical: MNXM1744
@@ -7349,7 +7375,8 @@
         - CHEBI:32805
         - CHEBI:23308
         - CHEBI:10482
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/643481e5-a35b-477e-8665-70f4dca66baa
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/643481e5-a35b-477e-8665-70f4dca66baa
       - hmdb:
         - HMDB00461
         - HMDB00072
@@ -8296,7 +8323,8 @@
         - CHEBI:10343
         - CHEBI:57966
         - CHEBI:41050
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df
       - hmdb: HMDB00056
       - kegg.compound: C00099
       - kegg.drug: D07561
@@ -8324,7 +8352,8 @@
         - CHEBI:10343
         - CHEBI:57966
         - CHEBI:41050
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df
       - hmdb: HMDB00056
       - kegg.compound: C00099
       - kegg.drug: D07561
@@ -8352,7 +8381,8 @@
         - CHEBI:10343
         - CHEBI:57966
         - CHEBI:41050
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df
       - hmdb: HMDB00056
       - kegg.compound: C00099
       - kegg.drug: D07561
@@ -9243,7 +9273,8 @@
         - CHEBI:13841
         - CHEBI:22577
         - CHEBI:2757
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/ec511e59-d2cf-482d-ae9f-7f4dd74818c2
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/ec511e59-d2cf-482d-ae9f-7f4dd74818c2
       - hmdb: HMDB01123
       - kegg.compound: C00108
       - metanetx.chemical: MNXM188
@@ -9400,7 +9431,8 @@
         - CHEBI:10963
         - CHEBI:19030
         - CHEBI:303
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/d0a37a0c-a6b5-45b9-b8cd-3d633776e4a3
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/d0a37a0c-a6b5-45b9-b8cd-3d633776e4a3
       - hmdb: HMDB12136
       - kegg.compound:
         - C05771
@@ -10078,7 +10110,8 @@
         - CHEBI:29243
         - CHEBI:29866
         - CHEBI:29242
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/42d95b9b-3aca-45eb-a99d-ef775cb20524
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/42d95b9b-3aca-45eb-a99d-ef775cb20524
       - hmdb: HMDB11620
       - kegg.compound: C06697
       - metanetx.chemical: MNXM658
@@ -10108,7 +10141,8 @@
         - CHEBI:29243
         - CHEBI:29866
         - CHEBI:29242
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/42d95b9b-3aca-45eb-a99d-ef775cb20524
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/42d95b9b-3aca-45eb-a99d-ef775cb20524
       - hmdb: HMDB11620
       - kegg.compound: C06697
       - metanetx.chemical: MNXM658
@@ -10138,7 +10172,8 @@
         - CHEBI:29243
         - CHEBI:29866
         - CHEBI:29242
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/42d95b9b-3aca-45eb-a99d-ef775cb20524
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/42d95b9b-3aca-45eb-a99d-ef775cb20524
       - hmdb: HMDB11620
       - kegg.compound: C06697
       - metanetx.chemical: MNXM658
@@ -10167,7 +10202,8 @@
         - CHEBI:2844
         - CHEBI:22629
         - CHEBI:18231
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/090d280e-0ebf-4fab-bb54-3a3933e7a5fe
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/090d280e-0ebf-4fab-bb54-3a3933e7a5fe
       - hmdb: HMDB12190
       - kegg.compound:
         - C01478
@@ -10203,7 +10239,8 @@
         - CHEBI:40853
         - CHEBI:29992
         - CHEBI:40900
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4b0cdcb0-137a-4ddc-8e5c-2b55ea238c15
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4b0cdcb0-137a-4ddc-8e5c-2b55ea238c15
       - hmdb:
         - HMDB62186
         - HMDB62501
@@ -10248,7 +10285,8 @@
         - CHEBI:40853
         - CHEBI:29992
         - CHEBI:40900
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4b0cdcb0-137a-4ddc-8e5c-2b55ea238c15
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4b0cdcb0-137a-4ddc-8e5c-2b55ea238c15
       - hmdb:
         - HMDB62186
         - HMDB62501
@@ -10293,7 +10331,8 @@
         - CHEBI:40853
         - CHEBI:29992
         - CHEBI:40900
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4b0cdcb0-137a-4ddc-8e5c-2b55ea238c15
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4b0cdcb0-137a-4ddc-8e5c-2b55ea238c15
       - hmdb:
         - HMDB62186
         - HMDB62501
@@ -10433,7 +10472,8 @@
         - CHEBI:13921
         - CHEBI:41612
         - CHEBI:58669
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c0e5f008-6d8b-4b94-a265-03d19ff197f4
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c0e5f008-6d8b-4b94-a265-03d19ff197f4
       - hmdb:
         - HMDB62466
         - HMDB02009
@@ -10542,7 +10582,8 @@
         - CHEBI:3233
         - CHEBI:15743
         - CHEBI:13923
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/242f8a4e-2a91-4c5f-a129-d044d115b969
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/242f8a4e-2a91-4c5f-a129-d044d115b969
       - hmdb: HMDB03543
       - kegg.compound: C01412
       - metanetx.chemical: MNXM1017
@@ -10565,7 +10606,8 @@
         - CHEBI:3235
         - CHEBI:15517
         - CHEBI:13926
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dcfe6e71-5e24-4086-91a3-076df362da44
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dcfe6e71-5e24-4086-91a3-076df362da44
       - hmdb: HMDB01088
       - kegg.compound: C00136
       - lipidmaps: LMFA07050292
@@ -11308,7 +11350,8 @@
         - CHEBI:60087
         - CHEBI:48690
         - CHEBI:60088
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/98ef2d5b-75f7-4313-90f9-30f649403e35
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/98ef2d5b-75f7-4313-90f9-30f649403e35
       - metanetx.chemical: MNXM1636
       - sbo: SBO:0000247
   - !!omap
@@ -11378,7 +11421,8 @@
         - CHEBI:49071
         - CHEBI:60108
         - CHEBI:61451
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/916b6989-0170-4531-998d-de0420436691
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/916b6989-0170-4531-998d-de0420436691
       - kegg.compound: C12622
       - metanetx.chemical: MNXM2161
       - sbo: SBO:0000247
@@ -12471,7 +12515,8 @@
         - CHEBI:15346
         - CHEBI:3771
         - CHEBI:13294
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/19310484-6aa5-4dcf-b1da-855a8c21ecfd
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/19310484-6aa5-4dcf-b1da-855a8c21ecfd
       - hmdb:
         - HMDB01423
         - HMDB62184
@@ -13419,7 +13464,8 @@
         - CHEBI:29195
         - CHEBI:23422
         - CHEBI:28024
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/20a1ab57-2ac5-44c6-8390-60706fcc3fa1
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/20a1ab57-2ac5-44c6-8390-60706fcc3fa1
       - hmdb: HMDB02078
       - kegg.compound: C01417
       - metanetx.chemical: MNXM1191
@@ -13442,7 +13488,8 @@
         - CHEBI:29195
         - CHEBI:23422
         - CHEBI:28024
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/20a1ab57-2ac5-44c6-8390-60706fcc3fa1
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/20a1ab57-2ac5-44c6-8390-60706fcc3fa1
       - hmdb: HMDB02078
       - kegg.compound: C01417
       - metanetx.chemical: MNXM1191
@@ -13465,7 +13512,8 @@
         - CHEBI:29195
         - CHEBI:23422
         - CHEBI:28024
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/20a1ab57-2ac5-44c6-8390-60706fcc3fa1
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/20a1ab57-2ac5-44c6-8390-60706fcc3fa1
       - hmdb: HMDB02078
       - kegg.compound: C01417
       - metanetx.chemical: MNXM1191
@@ -14545,7 +14593,8 @@
         - CHEBI:41874
         - CHEBI:14188
         - CHEBI:14501
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/74d61ac3-3daa-4b6c-b746-ada3812ec3c7
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/74d61ac3-3daa-4b6c-b746-ada3812ec3c7
       - hmdb: HMDB03571
       - kegg.compound: C01832
       - lipidmaps:
@@ -14688,7 +14737,8 @@
       - chebi:
         - CHEBI:71259
         - CHEBI:26634
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/827fc514-4527-4f8f-8df2-fe7ba01da727
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/827fc514-4527-4f8f-8df2-fe7ba01da727
       - kegg.compound: C18870
       - metanetx.chemical: MNXM7767
       - reactome.compound: '5357667'
@@ -14806,7 +14856,8 @@
         - CHEBI:16016
         - CHEBI:39809
         - CHEBI:5453
-      - envipath: 4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/88a6ccc5-fd05-4708-9244-5bc7a155dbbf
+      - envipath: 
+          4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/88a6ccc5-fd05-4708-9244-5bc7a155dbbf
       - hmdb: HMDB01882
       - kegg.compound: C00184
       - kegg.drug: D07841
@@ -14829,7 +14880,8 @@
         - CHEBI:16016
         - CHEBI:39809
         - CHEBI:5453
-      - envipath: 4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/88a6ccc5-fd05-4708-9244-5bc7a155dbbf
+      - envipath: 
+          4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/88a6ccc5-fd05-4708-9244-5bc7a155dbbf
       - hmdb: HMDB01882
       - kegg.compound: C00184
       - kegg.drug: D07841
@@ -14852,7 +14904,8 @@
         - CHEBI:16016
         - CHEBI:39809
         - CHEBI:5453
-      - envipath: 4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/88a6ccc5-fd05-4708-9244-5bc7a155dbbf
+      - envipath: 
+          4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/88a6ccc5-fd05-4708-9244-5bc7a155dbbf
       - hmdb: HMDB01882
       - kegg.compound: C00184
       - kegg.drug: D07841
@@ -14911,7 +14964,8 @@
         - CHEBI:58642
         - CHEBI:48681
         - CHEBI:32356
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/ca1afb6b-2124-4ca0-9740-8c757c0ea104
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/ca1afb6b-2124-4ca0-9740-8c757c0ea104
       - hmdb: HMDB32057
       - kegg.compound: C12623
       - metanetx.chemical: MNXM1130
@@ -15093,7 +15147,8 @@
         - CHEBI:1419
         - CHEBI:19919
         - CHEBI:11718
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/41182ed7-9bc7-4ca9-82dc-53a07e6cc91d
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/41182ed7-9bc7-4ca9-82dc-53a07e6cc91d
       - kegg.compound: C04044
       - metanetx.chemical: MNXM826
       - sabiork: '7038'
@@ -15502,7 +15557,8 @@
         - CHEBI:23800
         - CHEBI:14175
         - CHEBI:14168
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/26c081a5-2c2d-4e64-bd11-0d80376989ba
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/26c081a5-2c2d-4e64-bd11-0d80376989ba
       - hmdb: HMDB02303
       - kegg.compound: C00580
       - metanetx.chemical: MNXM444
@@ -15525,7 +15581,8 @@
         - CHEBI:23800
         - CHEBI:14175
         - CHEBI:14168
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/26c081a5-2c2d-4e64-bd11-0d80376989ba
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/26c081a5-2c2d-4e64-bd11-0d80376989ba
       - hmdb: HMDB02303
       - kegg.compound: C00580
       - metanetx.chemical: MNXM444
@@ -15548,7 +15605,8 @@
         - CHEBI:23800
         - CHEBI:14175
         - CHEBI:14168
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/26c081a5-2c2d-4e64-bd11-0d80376989ba
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/26c081a5-2c2d-4e64-bd11-0d80376989ba
       - hmdb: HMDB02303
       - kegg.compound: C00580
       - metanetx.chemical: MNXM444
@@ -15569,7 +15627,8 @@
         - CHEBI:4612
         - CHEBI:42138
         - CHEBI:28262
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/455cdb68-acf9-42fe-a3f8-420236744cc5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/455cdb68-acf9-42fe-a3f8-420236744cc5
       - hmdb: HMDB02151
       - kegg.compound: C11143
       - kegg.drug: D01043
@@ -15590,7 +15649,8 @@
         - CHEBI:4612
         - CHEBI:42138
         - CHEBI:28262
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/455cdb68-acf9-42fe-a3f8-420236744cc5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/455cdb68-acf9-42fe-a3f8-420236744cc5
       - hmdb: HMDB02151
       - kegg.compound: C11143
       - kegg.drug: D01043
@@ -15611,7 +15671,8 @@
         - CHEBI:4612
         - CHEBI:42138
         - CHEBI:28262
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/455cdb68-acf9-42fe-a3f8-420236744cc5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/455cdb68-acf9-42fe-a3f8-420236744cc5
       - hmdb: HMDB02151
       - kegg.compound: C11143
       - kegg.drug: D01043
@@ -15663,7 +15724,8 @@
         - CHEBI:43686
         - CHEBI:18243
         - CHEBI:59905
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/47cc810c-1f1f-4351-82ca-b97abf5dc03c
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/47cc810c-1f1f-4351-82ca-b97abf5dc03c
       - hmdb: HMDB00073
       - kegg.compound: C03758
       - kegg.drug: D07870
@@ -15695,7 +15757,8 @@
         - CHEBI:43686
         - CHEBI:18243
         - CHEBI:59905
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/47cc810c-1f1f-4351-82ca-b97abf5dc03c
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/47cc810c-1f1f-4351-82ca-b97abf5dc03c
       - hmdb: HMDB00073
       - kegg.compound: C03758
       - kegg.drug: D07870
@@ -18590,7 +18653,8 @@
         - CHEBI:29806
         - CHEBI:22958
         - CHEBI:24122
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/709035ec-4868-4de8-9095-06428f6be14b
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/709035ec-4868-4de8-9095-06428f6be14b
       - hmdb: HMDB00134
       - kegg.compound: C00122
       - kegg.drug: D02308
@@ -18625,7 +18689,8 @@
         - CHEBI:29806
         - CHEBI:22958
         - CHEBI:24122
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/709035ec-4868-4de8-9095-06428f6be14b
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/709035ec-4868-4de8-9095-06428f6be14b
       - hmdb: HMDB00134
       - kegg.compound: C00122
       - kegg.drug: D02308
@@ -18660,7 +18725,8 @@
         - CHEBI:29806
         - CHEBI:22958
         - CHEBI:24122
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/709035ec-4868-4de8-9095-06428f6be14b
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/709035ec-4868-4de8-9095-06428f6be14b
       - hmdb: HMDB00134
       - kegg.compound: C00122
       - kegg.drug: D02308
@@ -20483,7 +20549,8 @@
         - CHEBI:386065
         - CHEBI:16724
         - CHEBI:20401
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a41e6b76-b462-49d4-ae42-391ef00bf98c
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a41e6b76-b462-49d4-ae42-391ef00bf98c
       - hmdb:
         - HMDB15507
         - HMDB00710
@@ -22731,7 +22798,8 @@
         - CHEBI:14372
         - CHEBI:24443
         - CHEBI:5563
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/b5208daa-3750-4745-b4ed-179fb9d4fcfd
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/b5208daa-3750-4745-b4ed-179fb9d4fcfd
       - hmdb: HMDB00132
       - kegg.compound: C00242
       - metanetx.chemical: MNXM259
@@ -22755,7 +22823,8 @@
         - CHEBI:14372
         - CHEBI:24443
         - CHEBI:5563
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/b5208daa-3750-4745-b4ed-179fb9d4fcfd
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/b5208daa-3750-4745-b4ed-179fb9d4fcfd
       - hmdb: HMDB00132
       - kegg.compound: C00242
       - metanetx.chemical: MNXM259
@@ -22779,7 +22848,8 @@
         - CHEBI:14372
         - CHEBI:24443
         - CHEBI:5563
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/b5208daa-3750-4745-b4ed-179fb9d4fcfd
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/b5208daa-3750-4745-b4ed-179fb9d4fcfd
       - hmdb: HMDB00132
       - kegg.compound: C00242
       - metanetx.chemical: MNXM259
@@ -23576,7 +23646,8 @@
         - CHEBI:24541
         - CHEBI:24550
         - CHEBI:29889
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc7314a1-8e9a-410f-be4f-f7d8bf32b1cb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc7314a1-8e9a-410f-be4f-f7d8bf32b1cb
       - hmdb:
         - HMDB60083
         - HMDB00220
@@ -23619,7 +23690,8 @@
         - CHEBI:24541
         - CHEBI:24550
         - CHEBI:29889
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc7314a1-8e9a-410f-be4f-f7d8bf32b1cb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc7314a1-8e9a-410f-be4f-f7d8bf32b1cb
       - hmdb:
         - HMDB60083
         - HMDB00220
@@ -23662,7 +23734,8 @@
         - CHEBI:24541
         - CHEBI:24550
         - CHEBI:29889
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc7314a1-8e9a-410f-be4f-f7d8bf32b1cb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc7314a1-8e9a-410f-be4f-f7d8bf32b1cb
       - hmdb:
         - HMDB60083
         - HMDB00220
@@ -23829,7 +23902,8 @@
         - CHEBI:16793
         - CHEBI:49640
         - CHEBI:5714
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/79a26c21-7769-4377-9880-413b45e89afe
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/79a26c21-7769-4377-9880-413b45e89afe
       - hmdb: HMDB03625
       - kegg.compound: C00703
       - metanetx.chemical: MNXM1562
@@ -23851,7 +23925,8 @@
         - CHEBI:16793
         - CHEBI:49640
         - CHEBI:5714
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/79a26c21-7769-4377-9880-413b45e89afe
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/79a26c21-7769-4377-9880-413b45e89afe
       - hmdb: HMDB03625
       - kegg.compound: C00703
       - metanetx.chemical: MNXM1562
@@ -23873,7 +23948,8 @@
         - CHEBI:16793
         - CHEBI:49640
         - CHEBI:5714
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/79a26c21-7769-4377-9880-413b45e89afe
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/79a26c21-7769-4377-9880-413b45e89afe
       - hmdb: HMDB03625
       - kegg.compound: C00703
       - metanetx.chemical: MNXM1562
@@ -24115,7 +24191,8 @@
         - CHEBI:61449
         - CHEBI:66936
         - CHEBI:11589
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/29315147-9cf6-4642-ac32-ecd4eb00a7fe
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/29315147-9cf6-4642-ac32-ecd4eb00a7fe
       - kegg.compound: C04479
       - metanetx.chemical: MNXM1693
       - sabiork: '7342'
@@ -24132,7 +24209,8 @@
       - chebi:
         - CHEBI:61450
         - CHEBI:61467
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d982e35d-ed93-4304-b42e-a1933826f3c6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d982e35d-ed93-4304-b42e-a1933826f3c6
       - kegg.compound: C12624
       - metanetx.chemical: MNXM2040
       - sbo: SBO:0000247
@@ -24189,7 +24267,8 @@
         - CHEBI:58758
         - CHEBI:40619
         - CHEBI:34963
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/fee99d5c-735f-4808-89ec-dbadb58f766c
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/fee99d5c-735f-4808-89ec-dbadb58f766c
       - hmdb: HMDB04662
       - kegg.compound: C14180
       - metanetx.chemical: MNXM1051
@@ -24384,7 +24463,8 @@
         - CHEBI:17120
         - CHEBI:5702
         - CHEBI:24569
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/e4df503e-0f40-4bad-8885-76774b301631
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/e4df503e-0f40-4bad-8885-76774b301631
       - hmdb:
         - HMDB00535
         - HMDB61883
@@ -24412,7 +24492,8 @@
         - CHEBI:17120
         - CHEBI:5702
         - CHEBI:24569
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/e4df503e-0f40-4bad-8885-76774b301631
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/e4df503e-0f40-4bad-8885-76774b301631
       - hmdb:
         - HMDB00535
         - HMDB61883
@@ -24440,7 +24521,8 @@
         - CHEBI:17120
         - CHEBI:5702
         - CHEBI:24569
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/e4df503e-0f40-4bad-8885-76774b301631
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/e4df503e-0f40-4bad-8885-76774b301631
       - hmdb:
         - HMDB00535
         - HMDB61883
@@ -25791,7 +25873,8 @@
         - CHEBI:340
         - CHEBI:17167
         - CHEBI:18683
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/40a73f79-ca1a-42bb-a386-b7c5f7d72f1d
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/40a73f79-ca1a-42bb-a386-b7c5f7d72f1d
       - hmdb:
         - HMDB06949
         - HMDB06458
@@ -26881,7 +26964,8 @@
         - CHEBI:18167
         - CHEBI:17306
         - CHEBI:25144
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/943ae27f-7875-4bcd-948d-1551ec9aa1ca
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/943ae27f-7875-4bcd-948d-1551ec9aa1ca
       - kegg.compound:
         - C00897
         - C00208
@@ -26920,7 +27004,8 @@
         - CHEBI:18167
         - CHEBI:17306
         - CHEBI:25144
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/943ae27f-7875-4bcd-948d-1551ec9aa1ca
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/943ae27f-7875-4bcd-948d-1551ec9aa1ca
       - kegg.compound:
         - C00897
         - C00208
@@ -26959,7 +27044,8 @@
         - CHEBI:18167
         - CHEBI:17306
         - CHEBI:25144
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/943ae27f-7875-4bcd-948d-1551ec9aa1ca
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/943ae27f-7875-4bcd-948d-1551ec9aa1ca
       - kegg.compound:
         - C00897
         - C00208
@@ -27125,7 +27211,8 @@
         - CHEBI:25146
         - CHEBI:43937
         - CHEBI:27931
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7d7cf31a-30a5-4368-8802-9269424379b6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7d7cf31a-30a5-4368-8802-9269424379b6
       - hmdb: HMDB01262
       - kegg.compound: C01835
       - metanetx.chemical: MNXM468
@@ -27148,7 +27235,8 @@
         - CHEBI:25146
         - CHEBI:43937
         - CHEBI:27931
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7d7cf31a-30a5-4368-8802-9269424379b6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7d7cf31a-30a5-4368-8802-9269424379b6
       - hmdb: HMDB01262
       - kegg.compound: C01835
       - metanetx.chemical: MNXM468
@@ -27171,7 +27259,8 @@
         - CHEBI:25146
         - CHEBI:43937
         - CHEBI:27931
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7d7cf31a-30a5-4368-8802-9269424379b6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7d7cf31a-30a5-4368-8802-9269424379b6
       - hmdb: HMDB01262
       - kegg.compound: C01835
       - metanetx.chemical: MNXM468
@@ -27420,7 +27509,8 @@
         - CHEBI:21057
         - CHEBI:33930
         - CHEBI:12999
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c5f931e8-e7f7-4b73-bed6-48662796fe18
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c5f931e8-e7f7-4b73-bed6-48662796fe18
       - hmdb: HMDB00169
       - kegg.compound: C00159
       - metanetx.chemical: MNXM182
@@ -27450,7 +27540,8 @@
         - CHEBI:21057
         - CHEBI:33930
         - CHEBI:12999
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c5f931e8-e7f7-4b73-bed6-48662796fe18
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c5f931e8-e7f7-4b73-bed6-48662796fe18
       - hmdb: HMDB00169
       - kegg.compound: C00159
       - metanetx.chemical: MNXM182
@@ -27480,7 +27571,8 @@
         - CHEBI:21057
         - CHEBI:33930
         - CHEBI:12999
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c5f931e8-e7f7-4b73-bed6-48662796fe18
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c5f931e8-e7f7-4b73-bed6-48662796fe18
       - hmdb: HMDB00169
       - kegg.compound: C00159
       - metanetx.chemical: MNXM182
@@ -27763,7 +27855,8 @@
         - CHEBI:57678
         - CHEBI:11847
         - CHEBI:20104
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/867afe4f-221e-465f-b082-bf34bbb99022
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/867afe4f-221e-465f-b082-bf34bbb99022
       - hmdb: HMDB01368
       - kegg.compound: C00957
       - metanetx.chemical: MNXM1214
@@ -27864,7 +27957,8 @@
         - CHEBI:16643
         - CHEBI:13141
         - CHEBI:43990
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/44a61812-39ff-48f9-bf09-8398e8723d5e
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/44a61812-39ff-48f9-bf09-8398e8723d5e
       - hmdb:
         - HMDB00696
         - HMDB33951
@@ -27912,7 +28006,8 @@
         - CHEBI:16643
         - CHEBI:13141
         - CHEBI:43990
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/44a61812-39ff-48f9-bf09-8398e8723d5e
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/44a61812-39ff-48f9-bf09-8398e8723d5e
       - hmdb:
         - HMDB00696
         - HMDB33951
@@ -27960,7 +28055,8 @@
         - CHEBI:16643
         - CHEBI:13141
         - CHEBI:43990
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/44a61812-39ff-48f9-bf09-8398e8723d5e
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/44a61812-39ff-48f9-bf09-8398e8723d5e
       - hmdb:
         - HMDB00696
         - HMDB33951
@@ -28906,7 +29002,8 @@
         - CHEBI:6813
         - CHEBI:27376
         - CHEBI:25224
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/08e4702f-d7fe-43da-9a21-5771459eab73
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/08e4702f-d7fe-43da-9a21-5771459eab73
       - kegg.compound: C11145
       - metanetx.chemical: MNXM1485
       - sbo: SBO:0000247
@@ -28924,7 +29021,8 @@
         - CHEBI:6813
         - CHEBI:27376
         - CHEBI:25224
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/08e4702f-d7fe-43da-9a21-5771459eab73
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/08e4702f-d7fe-43da-9a21-5771459eab73
       - kegg.compound: C11145
       - metanetx.chemical: MNXM1485
       - sbo: SBO:0000247
@@ -28942,7 +29040,8 @@
         - CHEBI:6813
         - CHEBI:27376
         - CHEBI:25224
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/08e4702f-d7fe-43da-9a21-5771459eab73
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/08e4702f-d7fe-43da-9a21-5771459eab73
       - kegg.compound: C11145
       - metanetx.chemical: MNXM1485
       - sbo: SBO:0000247
@@ -28971,7 +29070,8 @@
         - CHEBI:11643
         - CHEBI:6875
         - CHEBI:17158
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/87b7fac4-f224-43ab-81f4-b95330450174
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/87b7fac4-f224-43ab-81f4-b95330450174
       - hmdb: HMDB01167
       - kegg.compound: C00546
       - metanetx.chemical: MNXM310
@@ -29232,7 +29332,8 @@
         - CHEBI:7598
         - CHEBI:17045
         - CHEBI:44250
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/27f4cd6e-d42f-484e-8813-ef9e60aa5bf0
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/27f4cd6e-d42f-484e-8813-ef9e60aa5bf0
       - hmdb: HMDB35807
       - kegg.compound: C00887
       - kegg.drug: D00102
@@ -29255,7 +29356,8 @@
         - CHEBI:7598
         - CHEBI:17045
         - CHEBI:44250
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/27f4cd6e-d42f-484e-8813-ef9e60aa5bf0
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/27f4cd6e-d42f-484e-8813-ef9e60aa5bf0
       - hmdb: HMDB35807
       - kegg.compound: C00887
       - kegg.drug: D00102
@@ -29278,7 +29380,8 @@
         - CHEBI:7598
         - CHEBI:17045
         - CHEBI:44250
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/27f4cd6e-d42f-484e-8813-ef9e60aa5bf0
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/27f4cd6e-d42f-484e-8813-ef9e60aa5bf0
       - hmdb: HMDB35807
       - kegg.compound: C00887
       - kegg.drug: D00102
@@ -29574,7 +29677,8 @@
       - sbo: SBO:0000247
   - !!omap
     - id: nadhx__S_c
-    - name: Adenosine 5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl}
+    - name: Adenosine 
+        5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl}
         dihydrogen diphosphate)
     - compartment: c
     - charge: -2
@@ -30084,7 +30188,8 @@
         - CHEBI:7585
         - CHEBI:44396
         - CHEBI:25567
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/84af9b8c-5f58-4093-85cb-964ba8ed40b7
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/84af9b8c-5f58-4093-85cb-964ba8ed40b7
       - hmdb: HMDB02786
       - kegg.compound: C00088
       - metanetx.chemical: MNXM107
@@ -30107,7 +30212,8 @@
         - CHEBI:7585
         - CHEBI:44396
         - CHEBI:25567
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/84af9b8c-5f58-4093-85cb-964ba8ed40b7
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/84af9b8c-5f58-4093-85cb-964ba8ed40b7
       - hmdb: HMDB02786
       - kegg.compound: C00088
       - metanetx.chemical: MNXM107
@@ -30130,7 +30236,8 @@
         - CHEBI:7585
         - CHEBI:44396
         - CHEBI:25567
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/84af9b8c-5f58-4093-85cb-964ba8ed40b7
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/84af9b8c-5f58-4093-85cb-964ba8ed40b7
       - hmdb: HMDB02786
       - kegg.compound: C00088
       - metanetx.chemical: MNXM107
@@ -30157,7 +30264,8 @@
         - CHEBI:17632
         - CHEBI:48107
         - CHEBI:25545
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/706be27f-b4cf-4022-b2ef-04cec5197ca5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/706be27f-b4cf-4022-b2ef-04cec5197ca5
       - hmdb:
         - HMDB02878
         - HMDB01853
@@ -30186,7 +30294,8 @@
         - CHEBI:17632
         - CHEBI:48107
         - CHEBI:25545
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/706be27f-b4cf-4022-b2ef-04cec5197ca5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/706be27f-b4cf-4022-b2ef-04cec5197ca5
       - hmdb:
         - HMDB02878
         - HMDB01853
@@ -30215,7 +30324,8 @@
         - CHEBI:17632
         - CHEBI:48107
         - CHEBI:25545
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/706be27f-b4cf-4022-b2ef-04cec5197ca5
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/706be27f-b4cf-4022-b2ef-04cec5197ca5
       - hmdb:
         - HMDB02878
         - HMDB01853
@@ -30426,7 +30536,8 @@
         - CHEBI:23833
         - CHEBI:25366
         - CHEBI:10745
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/d5d12248-82d3-4cf3-b7d0-2e3d096768b4
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/d5d12248-82d3-4cf3-b7d0-2e3d096768b4
       - hmdb: HMDB01377
       - kegg.compound: C00007
       - kegg.drug: D00003
@@ -30468,7 +30579,8 @@
         - CHEBI:23833
         - CHEBI:25366
         - CHEBI:10745
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/d5d12248-82d3-4cf3-b7d0-2e3d096768b4
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/d5d12248-82d3-4cf3-b7d0-2e3d096768b4
       - hmdb: HMDB01377
       - kegg.compound: C00007
       - kegg.drug: D00003
@@ -30510,7 +30622,8 @@
         - CHEBI:23833
         - CHEBI:25366
         - CHEBI:10745
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/d5d12248-82d3-4cf3-b7d0-2e3d096768b4
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/d5d12248-82d3-4cf3-b7d0-2e3d096768b4
       - hmdb: HMDB01377
       - kegg.compound: C00007
       - kegg.drug: D00003
@@ -30693,7 +30806,8 @@
         - CHEBI:14681
         - CHEBI:15533
         - CHEBI:57386
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/803b8f43-e64d-427d-a22e-a38aca2708eb
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/803b8f43-e64d-427d-a22e-a38aca2708eb
       - hmdb:
         - HMDB06257
         - HMDB01070
@@ -30732,7 +30846,8 @@
         - CHEBI:45710
         - CHEBI:25629
         - CHEBI:28842
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/c0fae385-4844-4700-ba7a-96b6726ed216
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/c0fae385-4844-4700-ba7a-96b6726ed216
       - hmdb: HMDB00827
       - kegg.compound: C01530
       - kegg.drug: D00119
@@ -30760,7 +30875,8 @@
         - CHEBI:45710
         - CHEBI:25629
         - CHEBI:28842
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/c0fae385-4844-4700-ba7a-96b6726ed216
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/c0fae385-4844-4700-ba7a-96b6726ed216
       - hmdb: HMDB00827
       - kegg.compound: C01530
       - kegg.drug: D00119
@@ -30788,7 +30904,8 @@
         - CHEBI:45710
         - CHEBI:25629
         - CHEBI:28842
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/c0fae385-4844-4700-ba7a-96b6726ed216
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/c0fae385-4844-4700-ba7a-96b6726ed216
       - hmdb: HMDB00827
       - kegg.compound: C01530
       - kegg.drug: D00119
@@ -31434,7 +31551,8 @@
         - CHEBI:57348
         - CHEBI:11872
         - CHEBI:1632
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/07216e0c-6bda-4477-b3ee-a2bda11a0800
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/07216e0c-6bda-4477-b3ee-a2bda11a0800
       - hmdb: HMDB60378
       - kegg.compound: C02232
       - lipidmaps: LMFA07050237
@@ -31480,7 +31598,8 @@
         - CHEBI:14708
         - CHEBI:18058
         - CHEBI:58363
-      - envipath: 5882df9c-dae1-4d80-a40e-db4724271456/compound/39b30a97-8fc7-4a71-be89-c591d56a8f6a
+      - envipath: 
+          5882df9c-dae1-4d80-a40e-db4724271456/compound/39b30a97-8fc7-4a71-be89-c591d56a8f6a
       - kegg.compound: C01444
       - metanetx.chemical: MNXM3329
       - sabiork: '3029'
@@ -32672,7 +32791,8 @@
         - CHEBI:14780
         - CHEBI:15537
         - CHEBI:57390
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc20356c-1455-4c1c-8260-b86508a89a3d
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/dc20356c-1455-4c1c-8260-b86508a89a3d
       - hmdb: HMDB06503
       - kegg.compound: C00582
       - metanetx.chemical: MNXM502
@@ -32953,7 +33073,8 @@
         - CHEBI:26007
         - CHEBI:18005
         - CHEBI:12821
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/1a2c1780-502b-43c6-8d45-759953ea5e07
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/1a2c1780-502b-43c6-8d45-759953ea5e07
       - hmdb:
         - HMDB00205
         - HMDB31629
@@ -33193,7 +33314,8 @@
         - CHEBI:7898
         - CHEBI:15525
         - CHEBI:14732
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/683c12f9-18f4-4439-a718-0877aa11b9ae
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/683c12f9-18f4-4439-a718-0877aa11b9ae
       - hmdb:
         - HMDB01338
         - HMDB59623
@@ -33476,7 +33598,8 @@
         - CHEBI:26295
         - CHEBI:8479
         - CHEBI:15539
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4e032169-05c6-49aa-9422-d081d81bc1a6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/4e032169-05c6-49aa-9422-d081d81bc1a6
       - hmdb: HMDB01275
       - kegg.compound: C00100
       - lipidmaps: LMFA07050364
@@ -33965,7 +34088,8 @@
       - seed.compound: cpd19185
   - !!omap
     - id: prfp_c
-    - name: 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+    - name: 
+        1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
     - compartment: c
     - charge: -4
     - formula: C15H21N5O15P2
@@ -33986,7 +34110,8 @@
       - seed.compound: cpd02979
   - !!omap
     - id: prlp_c
-    - name: 5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide
+    - name: 
+        5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide
     - compartment: c
     - charge: -4
     - formula: C15H21N5O15P2
@@ -34206,7 +34331,8 @@
         - CHEBI:8488
         - CHEBI:15513
         - CHEBI:57367
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/04437fe9-7f67-491c-bfba-52e7b1b43ed6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/04437fe9-7f67-491c-bfba-52e7b1b43ed6
       - hmdb:
         - HMDB06507
         - HMDB02307
@@ -34626,7 +34752,8 @@
         - CHEBI:8669
         - CHEBI:14978
         - CHEBI:131533
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a8e03eef-0f65-4f7e-aaaa-c85331fbebe6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a8e03eef-0f65-4f7e-aaaa-c85331fbebe6
       - hmdb:
         - HMDB62696
         - HMDB01431
@@ -34653,7 +34780,8 @@
         - CHEBI:8669
         - CHEBI:14978
         - CHEBI:131533
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a8e03eef-0f65-4f7e-aaaa-c85331fbebe6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a8e03eef-0f65-4f7e-aaaa-c85331fbebe6
       - hmdb:
         - HMDB62696
         - HMDB01431
@@ -34680,7 +34808,8 @@
         - CHEBI:8669
         - CHEBI:14978
         - CHEBI:131533
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a8e03eef-0f65-4f7e-aaaa-c85331fbebe6
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/a8e03eef-0f65-4f7e-aaaa-c85331fbebe6
       - hmdb:
         - HMDB62696
         - HMDB01431
@@ -34731,7 +34860,8 @@
         - CHEBI:26423
         - CHEBI:17310
         - CHEBI:8667
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/049709c3-768e-468f-b435-40e990942002
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/049709c3-768e-468f-b435-40e990942002
       - hmdb: HMDB01545
       - kegg.compound: C00250
       - metanetx.chemical: MNXM311
@@ -34755,7 +34885,8 @@
         - CHEBI:26423
         - CHEBI:17310
         - CHEBI:8667
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/049709c3-768e-468f-b435-40e990942002
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/049709c3-768e-468f-b435-40e990942002
       - hmdb: HMDB01545
       - kegg.compound: C00250
       - metanetx.chemical: MNXM311
@@ -34779,7 +34910,8 @@
         - CHEBI:26423
         - CHEBI:17310
         - CHEBI:8667
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/049709c3-768e-468f-b435-40e990942002
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/049709c3-768e-468f-b435-40e990942002
       - hmdb: HMDB01545
       - kegg.compound: C00250
       - metanetx.chemical: MNXM311
@@ -34801,7 +34933,8 @@
         - CHEBI:26429
         - CHEBI:16709
         - CHEBI:8671
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/344a84bd-2fbd-4e3b-903e-556786d111e2
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/344a84bd-2fbd-4e3b-903e-556786d111e2
       - hmdb:
         - HMDB02075
         - HMDB00239
@@ -34826,7 +34959,8 @@
         - CHEBI:26429
         - CHEBI:16709
         - CHEBI:8671
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/344a84bd-2fbd-4e3b-903e-556786d111e2
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/344a84bd-2fbd-4e3b-903e-556786d111e2
       - hmdb:
         - HMDB02075
         - HMDB00239
@@ -34851,7 +34985,8 @@
         - CHEBI:26429
         - CHEBI:16709
         - CHEBI:8671
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/344a84bd-2fbd-4e3b-903e-556786d111e2
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/344a84bd-2fbd-4e3b-903e-556786d111e2
       - hmdb:
         - HMDB02075
         - HMDB00239
@@ -35930,7 +36065,8 @@
         - CHEBI:15075
         - CHEBI:9088
         - CHEBI:33490
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7ce756a8-39aa-4c50-aa82-5a7c7fe07bdc
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7ce756a8-39aa-4c50-aa82-5a7c7fe07bdc
       - hmdb: HMDB62761
       - kegg.compound: C05697
       - metanetx.chemical: MNXM2282
@@ -35953,7 +36089,8 @@
         - CHEBI:15075
         - CHEBI:9088
         - CHEBI:33490
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7ce756a8-39aa-4c50-aa82-5a7c7fe07bdc
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7ce756a8-39aa-4c50-aa82-5a7c7fe07bdc
       - hmdb: HMDB62761
       - kegg.compound: C05697
       - metanetx.chemical: MNXM2282
@@ -35976,7 +36113,8 @@
         - CHEBI:15075
         - CHEBI:9088
         - CHEBI:33490
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7ce756a8-39aa-4c50-aa82-5a7c7fe07bdc
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/7ce756a8-39aa-4c50-aa82-5a7c7fe07bdc
       - hmdb: HMDB62761
       - kegg.compound: C05697
       - metanetx.chemical: MNXM2282
@@ -36003,7 +36141,8 @@
         - CHEBI:30485
         - CHEBI:16503
         - CHEBI:47675
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/1e71e9cf-365f-47bc-a252-f0e75f597818
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/1e71e9cf-365f-47bc-a252-f0e75f597818
       - hmdb: HMDB11110
       - kegg.compound: C01528
       - metanetx.chemical: MNXM92652
@@ -36029,7 +36168,8 @@
         - CHEBI:16144
         - CHEBI:58618
         - CHEBI:29269
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/2375fd0c-e578-4771-9d3f-030d6dc30c7c
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/2375fd0c-e578-4771-9d3f-030d6dc30c7c
       - hmdb:
         - HMDB06407
         - HMDB03840
@@ -36144,7 +36284,8 @@
         - CHEBI:45677
         - CHEBI:6301
         - CHEBI:9116
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/207ebcd7-f859-4b01-8a69-9b99fb380595
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/207ebcd7-f859-4b01-8a69-9b99fb380595
       - hmdb:
         - HMDB00589
         - HMDB00187
@@ -36199,7 +36340,8 @@
         - CHEBI:45677
         - CHEBI:6301
         - CHEBI:9116
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/207ebcd7-f859-4b01-8a69-9b99fb380595
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/207ebcd7-f859-4b01-8a69-9b99fb380595
       - hmdb:
         - HMDB00589
         - HMDB00187
@@ -36254,7 +36396,8 @@
         - CHEBI:45677
         - CHEBI:6301
         - CHEBI:9116
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/207ebcd7-f859-4b01-8a69-9b99fb380595
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/207ebcd7-f859-4b01-8a69-9b99fb380595
       - hmdb:
         - HMDB00589
         - HMDB00187
@@ -36499,7 +36642,8 @@
         - CHEBI:29924
         - CHEBI:9090
         - CHEBI:15077
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/853ba2d0-3106-4c3e-9578-b095546ea194
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/853ba2d0-3106-4c3e-9578-b095546ea194
       - hmdb: HMDB11119
       - kegg.compound: C05684
       - kegg.drug: D05814
@@ -36522,7 +36666,8 @@
         - CHEBI:29924
         - CHEBI:9090
         - CHEBI:15077
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/853ba2d0-3106-4c3e-9578-b095546ea194
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/853ba2d0-3106-4c3e-9578-b095546ea194
       - hmdb: HMDB11119
       - kegg.compound: C05684
       - kegg.drug: D05814
@@ -36545,7 +36690,8 @@
         - CHEBI:29924
         - CHEBI:9090
         - CHEBI:15077
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/853ba2d0-3106-4c3e-9578-b095546ea194
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/853ba2d0-3106-4c3e-9578-b095546ea194
       - hmdb: HMDB11119
       - kegg.compound: C05684
       - kegg.drug: D05814
@@ -36567,7 +36713,8 @@
         - CHEBI:18422
         - CHEBI:9351
         - CHEBI:8992
-      - envipath: 4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/739d918d-f0e0-4b19-900c-7abb204b45c0
+      - envipath: 
+          4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/739d918d-f0e0-4b19-900c-7abb204b45c0
       - hmdb: HMDB34834
       - kegg.compound: C09306
       - kegg.drug: D05961
@@ -36589,7 +36736,8 @@
         - CHEBI:18422
         - CHEBI:9351
         - CHEBI:8992
-      - envipath: 4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/739d918d-f0e0-4b19-900c-7abb204b45c0
+      - envipath: 
+          4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/739d918d-f0e0-4b19-900c-7abb204b45c0
       - hmdb: HMDB34834
       - kegg.compound: C09306
       - kegg.drug: D05961
@@ -36611,7 +36759,8 @@
         - CHEBI:18422
         - CHEBI:9351
         - CHEBI:8992
-      - envipath: 4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/739d918d-f0e0-4b19-900c-7abb204b45c0
+      - envipath: 
+          4fd7f3e0-dd25-43ac-9453-dda3e52396e4/compound/739d918d-f0e0-4b19-900c-7abb204b45c0
       - hmdb: HMDB34834
       - kegg.compound: C09306
       - kegg.drug: D05961
@@ -36756,7 +36905,8 @@
         - CHEBI:45687
         - CHEBI:26836
         - CHEBI:45696
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/cf4fcd19-f2cb-4d92-aa67-323762e3b269
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/cf4fcd19-f2cb-4d92-aa67-323762e3b269
       - hmdb: HMDB01448
       - kegg.compound: C00059
       - kegg.drug: D05963
@@ -36792,7 +36942,8 @@
         - CHEBI:45687
         - CHEBI:26836
         - CHEBI:45696
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/cf4fcd19-f2cb-4d92-aa67-323762e3b269
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/cf4fcd19-f2cb-4d92-aa67-323762e3b269
       - hmdb: HMDB01448
       - kegg.compound: C00059
       - kegg.drug: D05963
@@ -36828,7 +36979,8 @@
         - CHEBI:45687
         - CHEBI:26836
         - CHEBI:45696
-      - envipath: 650babc9-9d68-4b73-9332-11972ca26f7b/compound/cf4fcd19-f2cb-4d92-aa67-323762e3b269
+      - envipath: 
+          650babc9-9d68-4b73-9332-11972ca26f7b/compound/cf4fcd19-f2cb-4d92-aa67-323762e3b269
       - hmdb: HMDB01448
       - kegg.compound: C00059
       - kegg.drug: D05963
@@ -37197,7 +37349,8 @@
         - CHEBI:9310
         - CHEBI:45541
         - CHEBI:26811
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/359075fb-98d9-458d-ba82-db4020e753f3
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/359075fb-98d9-458d-ba82-db4020e753f3
       - hmdb: HMDB01022
       - kegg.compound: C00091
       - lipidmaps: LMFA07050370
@@ -37843,7 +37996,8 @@
         - CHEBI:9550
         - CHEBI:26954
         - CHEBI:15234
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e06445a5-0756-47c6-b6f7-64c74b192ecc
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e06445a5-0756-47c6-b6f7-64c74b192ecc
       - hmdb: HMDB01453
       - kegg.compound: C01755
       - metanetx.chemical: MNXM762
@@ -37869,7 +38023,8 @@
         - CHEBI:9550
         - CHEBI:26954
         - CHEBI:15234
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e06445a5-0756-47c6-b6f7-64c74b192ecc
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e06445a5-0756-47c6-b6f7-64c74b192ecc
       - hmdb: HMDB01453
       - kegg.compound: C01755
       - metanetx.chemical: MNXM762
@@ -37895,7 +38050,8 @@
         - CHEBI:9550
         - CHEBI:26954
         - CHEBI:15234
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e06445a5-0756-47c6-b6f7-64c74b192ecc
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/e06445a5-0756-47c6-b6f7-64c74b192ecc
       - hmdb: HMDB01453
       - kegg.compound: C01755
       - metanetx.chemical: MNXM762
@@ -38106,7 +38262,8 @@
     - annotation: !!omap
       - bigg.metabolite: thm
       - chebi: CHEBI:33283
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d00080d5-971d-4e5f-973a-226a589d76df
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d00080d5-971d-4e5f-973a-226a589d76df
       - kegg.drug: D08580
       - metanetx.chemical: MNXM161565
       - sabiork: '2032'
@@ -38121,7 +38278,8 @@
     - annotation: !!omap
       - bigg.metabolite: thm
       - chebi: CHEBI:33283
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d00080d5-971d-4e5f-973a-226a589d76df
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d00080d5-971d-4e5f-973a-226a589d76df
       - kegg.drug: D08580
       - metanetx.chemical: MNXM161565
       - sabiork: '2032'
@@ -38136,7 +38294,8 @@
     - annotation: !!omap
       - bigg.metabolite: thm
       - chebi: CHEBI:33283
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d00080d5-971d-4e5f-973a-226a589d76df
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/d00080d5-971d-4e5f-973a-226a589d76df
       - kegg.drug: D08580
       - metanetx.chemical: MNXM161565
       - sabiork: '2032'
@@ -38250,7 +38409,8 @@
         - CHEBI:45983
         - CHEBI:32832
         - CHEBI:26986
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b570a573-71c2-4661-a517-6ac1b121dc59
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b570a573-71c2-4661-a517-6ac1b121dc59
       - hmdb: HMDB00167
       - kegg.compound: C00188
       - kegg.drug: D00041
@@ -38287,7 +38447,8 @@
         - CHEBI:45983
         - CHEBI:32832
         - CHEBI:26986
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b570a573-71c2-4661-a517-6ac1b121dc59
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b570a573-71c2-4661-a517-6ac1b121dc59
       - hmdb: HMDB00167
       - kegg.compound: C00188
       - kegg.drug: D00041
@@ -38324,7 +38485,8 @@
         - CHEBI:45983
         - CHEBI:32832
         - CHEBI:26986
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b570a573-71c2-4661-a517-6ac1b121dc59
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/b570a573-71c2-4661-a517-6ac1b121dc59
       - hmdb: HMDB00167
       - kegg.compound: C00188
       - kegg.drug: D00041
@@ -38540,7 +38702,8 @@
         - CHEBI:58389
         - CHEBI:27127
         - CHEBI:27125
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3311ee4e-2800-486b-9556-983f5d367c23
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3311ee4e-2800-486b-9556-983f5d367c23
       - hmdb: HMDB00906
       - kegg.compound: C00565
       - metanetx.chemical: MNXM352
@@ -38564,7 +38727,8 @@
         - CHEBI:58389
         - CHEBI:27127
         - CHEBI:27125
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3311ee4e-2800-486b-9556-983f5d367c23
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3311ee4e-2800-486b-9556-983f5d367c23
       - hmdb: HMDB00906
       - kegg.compound: C00565
       - metanetx.chemical: MNXM352
@@ -38588,7 +38752,8 @@
         - CHEBI:58389
         - CHEBI:27127
         - CHEBI:27125
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3311ee4e-2800-486b-9556-983f5d367c23
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3311ee4e-2800-486b-9556-983f5d367c23
       - hmdb: HMDB00906
       - kegg.compound: C00565
       - metanetx.chemical: MNXM352
@@ -38611,7 +38776,8 @@
         - CHEBI:27126
         - CHEBI:9733
         - CHEBI:15263
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c203aa4e-eb3d-491f-80bc-2b014da6482f
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c203aa4e-eb3d-491f-80bc-2b014da6482f
       - hmdb: HMDB00925
       - kegg.compound: C01104
       - metanetx.chemical: MNXM437
@@ -38634,7 +38800,8 @@
         - CHEBI:27126
         - CHEBI:9733
         - CHEBI:15263
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c203aa4e-eb3d-491f-80bc-2b014da6482f
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c203aa4e-eb3d-491f-80bc-2b014da6482f
       - hmdb: HMDB00925
       - kegg.compound: C01104
       - metanetx.chemical: MNXM437
@@ -38657,7 +38824,8 @@
         - CHEBI:27126
         - CHEBI:9733
         - CHEBI:15263
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c203aa4e-eb3d-491f-80bc-2b014da6482f
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/c203aa4e-eb3d-491f-80bc-2b014da6482f
       - hmdb: HMDB00925
       - kegg.compound: C01104
       - metanetx.chemical: MNXM437
@@ -39068,7 +39236,8 @@
         - CHEBI:45922
         - CHEBI:5587
         - CHEBI:33542
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/32b1f2ad-32ba-4271-9c86-f4bb1c35e35d
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/32b1f2ad-32ba-4271-9c86-f4bb1c35e35d
       - hmdb:
         - HMDB00257
         - HMDB60293
@@ -39101,7 +39270,8 @@
         - CHEBI:45922
         - CHEBI:5587
         - CHEBI:33542
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/32b1f2ad-32ba-4271-9c86-f4bb1c35e35d
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/32b1f2ad-32ba-4271-9c86-f4bb1c35e35d
       - hmdb:
         - HMDB00257
         - HMDB60293
@@ -39134,7 +39304,8 @@
         - CHEBI:45922
         - CHEBI:5587
         - CHEBI:33542
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/32b1f2ad-32ba-4271-9c86-f4bb1c35e35d
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/32b1f2ad-32ba-4271-9c86-f4bb1c35e35d
       - hmdb:
         - HMDB00257
         - HMDB60293
@@ -39409,7 +39580,8 @@
         - CHEBI:17895
         - CHEBI:18186
         - CHEBI:32785
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/974bd9b7-53fb-48cd-aaf3-6bd3196c0365
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/974bd9b7-53fb-48cd-aaf3-6bd3196c0365
       - hmdb:
         - HMDB00647
         - HMDB00158
@@ -39457,7 +39629,8 @@
         - CHEBI:17895
         - CHEBI:18186
         - CHEBI:32785
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/974bd9b7-53fb-48cd-aaf3-6bd3196c0365
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/974bd9b7-53fb-48cd-aaf3-6bd3196c0365
       - hmdb:
         - HMDB00647
         - HMDB00158
@@ -39505,7 +39678,8 @@
         - CHEBI:17895
         - CHEBI:18186
         - CHEBI:32785
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/974bd9b7-53fb-48cd-aaf3-6bd3196c0365
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/974bd9b7-53fb-48cd-aaf3-6bd3196c0365
       - hmdb:
         - HMDB00647
         - HMDB00158
@@ -39662,7 +39836,8 @@
       - seed.compound: cpd15576
   - !!omap
     - id: uaagmda_c
-    - name: Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala
+    - name: 
+        Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala
     - compartment: c
     - charge: -4
     - formula: C95H152N8O28P2
@@ -39851,7 +40026,8 @@
       - seed.compound: cpd03732
   - !!omap
     - id: uagmda_c
-    - name: Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+    - name: 
+        Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
     - compartment: c
     - charge: -4
     - formula: C87H139N7O23P2
@@ -40513,7 +40689,8 @@
       - sbo: SBO:0000247
   - !!omap
     - id: ugmda_c
-    - name: UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+    - name: 
+        UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
     - compartment: c
     - charge: -4
     - formula: C41H61N9O28P2
@@ -40535,7 +40712,8 @@
         - cpd02968
   - !!omap
     - id: um4p_c
-    - name: UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine
+    - name: 
+        UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine
     - compartment: c
     - charge: -4
     - formula: C38H56N8O27P2
@@ -40673,7 +40851,8 @@
       - seed.compound: cpd15581
   - !!omap
     - id: unagamuf_c
-    - name: Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose
+    - name: Undecaprenyl-diphospho 
+        N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose
     - compartment: c
     - charge: -3
     - formula: C79H126N3O22P2
@@ -40685,7 +40864,8 @@
       - seed.compound: cpd15582
   - !!omap
     - id: unagamuf_p
-    - name: Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose
+    - name: Undecaprenyl-diphospho 
+        N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose
     - compartment: p
     - charge: -3
     - formula: C79H126N3O22P2
@@ -41344,7 +41524,8 @@
         - CHEBI:48517
         - CHEBI:17712
         - CHEBI:27317
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3cf4dbf8-ae84-49e6-b294-b5138cb94f75
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3cf4dbf8-ae84-49e6-b294-b5138cb94f75
       - hmdb: HMDB00292
       - kegg.compound: C00385
       - metanetx.chemical: MNXM174
@@ -41368,7 +41549,8 @@
         - CHEBI:48517
         - CHEBI:17712
         - CHEBI:27317
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3cf4dbf8-ae84-49e6-b294-b5138cb94f75
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3cf4dbf8-ae84-49e6-b294-b5138cb94f75
       - hmdb: HMDB00292
       - kegg.compound: C00385
       - metanetx.chemical: MNXM174
@@ -41392,7 +41574,8 @@
         - CHEBI:48517
         - CHEBI:17712
         - CHEBI:27317
-      - envipath: 32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3cf4dbf8-ae84-49e6-b294-b5138cb94f75
+      - envipath: 
+          32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/3cf4dbf8-ae84-49e6-b294-b5138cb94f75
       - hmdb: HMDB00292
       - kegg.compound: C00385
       - metanetx.chemical: MNXM174
@@ -73286,7 +73469,7 @@
       - mlthf_c: 1.0
       - ser__L_c: -1.0
       - thf_c: -1.0
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: b2551
     - subsystem: Glycine and Serine Metabolism
@@ -78924,13 +79107,13 @@
     - id: HSDy
     - name: Homoserine dehydrogenase (NADPH)
     - metabolites: !!omap
-      - aspsa_c: 1.0
-      - h_c: 1.0
-      - hom__L_c: -1.0
-      - nadp_c: -1.0
-      - nadph_c: 1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
+      - aspsa_c: -1.0
+      - h_c: -1.0
+      - hom__L_c: 1.0
+      - nadp_c: 1.0
+      - nadph_c: -1.0
+    - lower_bound: 0
+    - upper_bound: 1000
     - gene_reaction_rule: b3940 or b0002
     - subsystem: Threonine and Lysine Metabolism
     - annotation: !!omap
@@ -95728,7 +95911,8 @@
       - sbo: SBO:0000176
   - !!omap
     - id: PRMICI
-    - name: 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide
+    - name: 
+        1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide
         isomerase
     - metabolites: !!omap
       - prfp_c: -1.0
@@ -103037,7 +103221,8 @@
       - seed.reaction: rxn00293
   - !!omap
     - id: UAGPT3
-    - name: UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol
+    - name: 
+        UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol
         N-acetylglucosamine transferase
     - metabolites: !!omap
       - h_c: 1.0
@@ -103654,7 +103839,8 @@
       - seed.reaction: rxn00327
   - !!omap
     - id: UGMDDS
-    - name: UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+    - name: 
+        UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
         synthetase
     - metabolites: !!omap
       - adp_c: 1.0
@@ -103759,7 +103945,8 @@
       - sbo: SBO:0000176
   - !!omap
     - id: UM4PCP
-    - name: UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine
+    - name: 
+        UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine
         L,D-carboxypeptidase
     - metabolites: !!omap
       - ala__D_c: 1.0
