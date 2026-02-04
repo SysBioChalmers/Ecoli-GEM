@@ -2500,7 +2500,7 @@ SSALy,h2o_c + nadp_c + sucsal_c --> 2.0 h_c + nadph_c + succ_c,ok,ok,ok,ok,N/A
 SUCASPtpp,asp__L_p + succ_c <=> asp__L_c + succ_p,ok,ok,ok,ok,N/A
 SUCBZL,atp_c + coa_c + sucbz_c --> amp_c + ppi_c + sbzcoa_c,ok,ok,ok,ok,N/A
 SUCBZS,2shchc_c --> h2o_c + sucbz_c,ok,ok,ok,ok,N/A
-SUCCt1pp,succ_p --> succ_c,ok,ok,ok,ok,N/A
+SUCCt1pp,succ_c --> succ_p,ok,ok,ok,ok,N/A
 SUCCt2_2pp,2.0 h_p + succ_p --> 2.0 h_c + succ_c,ok,ok,ok,SUCCt2_3pp,N/A
 SUCCt2_3pp,3.0 h_p + succ_p --> 3.0 h_c + succ_c,ok,ok,ok,SUCCt2_2pp,N/A
 SUCCtex,succ_e <=> succ_p,only when going forwards,ok,ok,ok,N/A
