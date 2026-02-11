@@ -2,7 +2,7 @@
 - metaData:
     id: "Ecoli-GEM"
     name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
-    date: "2025-10-30"
+    date: "2026-02-04"
     version: ""
     github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
@@ -79112,8 +79112,8 @@
       - hom__L_c: 1.0
       - nadp_c: 1.0
       - nadph_c: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: b3940 or b0002
     - subsystem: Threonine and Lysine Metabolism
     - annotation: !!omap
@@ -100346,10 +100346,10 @@
     - id: SUCCt1pp
     - name: Succinate transport via diffusion in (periplasm)
     - metabolites: !!omap
-      - succ_c: 1.0
-      - succ_p: -1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
+      - succ_c: -1.0
+      - succ_p: 1.0
+    - lower_bound: 0
+    - upper_bound: 1000
     - gene_reaction_rule: b1206
     - subsystem: Transport, Inner Membrane
     - annotation: !!omap
