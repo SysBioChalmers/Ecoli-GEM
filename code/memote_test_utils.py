@@ -56,7 +56,7 @@ def parse_annotation_field(field_str):
 # Function to append annotation information to the model
 def append_annotations(model, genes_df, mets_df, rxns_df):
     """Adds annotation data to the model from TSV files."""
-    # Ensure all genes have SBO:0000243
+    # Ensure all genes have SBO:0000243 (standard annotation that every gene is expected to have as default)
     for gene in model.genes:
         gene.annotation.setdefault("sbo", "SBO:0000243")
         

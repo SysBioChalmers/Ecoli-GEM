@@ -1,5 +1,5 @@
 {
-  "frog_date": "2025-04-30",
+  "frog_date": "2025-09-05",
   "frog_version": "1.0",
   "frog_curators": [],
   "frog_software": {
@@ -18,6 +18,6 @@
     "url": null
   },
   "model_filename": "model.xml",
-  "model_md5": "4b4c4df0f6501e84bb8a1240d2bb33ff",
+  "model_md5": "bbc4716ae305623fbc8ae745329f4434",
   "environment": "posix, Linux, 5.4.0-200-generic"
 }

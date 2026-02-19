@@ -2,8 +2,8 @@
 - metaData:
     id: "Ecoli-GEM"
     name: "The Consensus Genome-Scale Metabolic Model of Escherichia coli"
-    date: "2026-02-04"
-    version: ""
+    date: "2025-09-01"
+    version: "0.2.1"
     github: "https://github.com/SysBioChalmers/Ecoli-GEM"
 - metabolites:
   - !!omap
