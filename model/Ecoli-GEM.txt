@@ -1601,7 +1601,7 @@ R_HPYRI	Hydroxypyruvate[c] <=> 2-Hydroxy-3-oxopropanoate[c] 	G_b0508	-1000.00	10
 R_HPYRP	3-Phosphohydroxypyruvate[c] + H2O H2O[c] => Hydroxypyruvate[c] + Phosphate[c] 	G_b1813	  0.00	1000.00	  0.00
 R_HPYRRx	H+[c] + Hydroxypyruvate[c] + Nicotinamide adenine dinucleotide - reduced[c] => (R)-Glycerate[c] + Nicotinamide adenine dinucleotide[c] 	G_b1033 or G_b3553	  0.00	1000.00	  0.00
 R_HPYRRy	H+[c] + Hydroxypyruvate[c] + Nicotinamide adenine dinucleotide phosphate - reduced[c] => (R)-Glycerate[c] + Nicotinamide adenine dinucleotide phosphate[c] 	G_b1033 or G_b3553	  0.00	1000.00	  0.00
-R_HSDy	L-Homoserine[c] + Nicotinamide adenine dinucleotide phosphate[c] => L-Aspartate 4-semialdehyde[c] + H+[c] + Nicotinamide adenine dinucleotide phosphate - reduced[c] 	G_b3940 or G_b0002	  0.00	1000.00	  0.00
+R_HSDy	L-Aspartate 4-semialdehyde[c] + H+[c] + Nicotinamide adenine dinucleotide phosphate - reduced[c] => L-Homoserine[c] + Nicotinamide adenine dinucleotide phosphate[c] 	G_b3940 or G_b0002	  0.00	1000.00	  0.00
 R_HSK	ATP C10H12N5O13P3[c] + L-Homoserine[c] => ADP C10H12N5O10P2[c] + H+[c] + O-Phospho-L-homoserine[c] 	G_b0003	  0.00	1000.00	  0.00
 R_HSST	L-Homoserine[c] + Succinyl-CoA[c] => Coenzyme A[c] + O-Succinyl-L-homoserine[c] 	G_b4013	  0.00	1000.00	  0.00
 R_HSTPT	L-Glutamate[c] + 3-(Imidazol-4-yl)-2-oxopropyl phosphate[c] => 2-Oxoglutarate[c] + L-Histidinol phosphate[c] 	G_b2021	  0.00	1000.00	  0.00
@@ -2500,7 +2500,7 @@ R_SSALy	H2O H2O[c] + Nicotinamide adenine dinucleotide phosphate[c] + Succinic s
 R_SUCASPtpp	L-Aspartate[p] + Succinate[c] <=> L-Aspartate[c] + Succinate[p] 	G_b4138 or G_b4123 or G_b0621	-1000.00	1000.00	  0.00
 R_SUCBZL	ATP C10H12N5O13P3[c] + Coenzyme A[c] + O-Succinylbenzoate[c] => AMP C10H12N5O7P[c] + Diphosphate[c] + O-Succinylbenzoyl-CoA[c] 	G_b2260	  0.00	1000.00	  0.00
 R_SUCBZS	2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate[c] => H2O H2O[c] + O-Succinylbenzoate[c] 	G_b2261	  0.00	1000.00	  0.00
-R_SUCCt1pp	Succinate[p] => Succinate[c] 	G_b1206	  0.00	1000.00	  0.00
+R_SUCCt1pp	Succinate[c] => Succinate[p] 	G_b1206	  0.00	1000.00	  0.00
 R_SUCCt2_2pp	2 H+[p] + Succinate[p] => 2 H+[c] + Succinate[c] 	G_b3528 or G_b0010	  0.00	1000.00	  0.00
 R_SUCCt2_3pp	3 H+[p] + Succinate[p] => 3 H+[c] + Succinate[c] 	G_b4123 or G_b4138	  0.00	1000.00	  0.00
 R_SUCCtex	Succinate[e] <=> Succinate[p] 	G_b0241 or G_b0929 or G_b1377 or G_b2215	-1000.00	1000.00	  0.00

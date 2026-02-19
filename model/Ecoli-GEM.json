@@ -91664,11 +91664,11 @@
 "id":"HSDy",
 "name":"Homoserine dehydrogenase (NADPH)",
 "metabolites":{
-"aspsa_c":1.0,
-"h_c":1.0,
-"hom__L_c":-1.0,
-"nadp_c":-1.0,
-"nadph_c":1.0
+"aspsa_c":-1.0,
+"h_c":-1.0,
+"hom__L_c":1.0,
+"nadp_c":1.0,
+"nadph_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -116294,8 +116294,8 @@
 "id":"SUCCt1pp",
 "name":"Succinate transport via diffusion in (periplasm)",
 "metabolites":{
-"succ_c":1.0,
-"succ_p":-1.0
+"succ_c":-1.0,
+"succ_p":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -151226,7 +151226,7 @@
 }
 }
 ],
-"id":"Ecoli-GEM",
+"id":null,
 "compartments":{
 "c":"cytosol",
 "e":"extracellular space",

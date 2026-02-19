@@ -623,7 +623,7 @@ CYSItpp,cysi__L_c --> cysi__L_p,cysi__L_c;cysi__L_p,ok,ok,ok,N/A
 CYSS,acser_c + h2s_c --> ac_c + cys__L_c + h_c,ok,ok,ok,ok,N/A
 CYSSADS,3sala_c + 2.0 h_c --> ala__L_c + so2_c,3sala_c;so2_c,ok,ok,ok,N/A
 CYSTA,akg_c + cys__L_c --> glu__L_c + mercppyr_c,mercppyr_c,ok,ok,ok,N/A
-CYSTL,cyst__L_c + h2o_c --> hcys__L_c + nh4_c + pyr_c,cyst__L_c,ok,ok,ok,N/A
+CYSTL,cyst__L_c + h2o_c --> hcys__L_c + nh4_c + pyr_c,ok,ok,ok,ok,N/A
 CYSabc2pp,atp_c + cys__L_c + h2o_c --> adp_c + cys__L_p + h_c + pi_c,ok,ok,ok,CYSabcpp,N/A
 CYSabcpp,atp_c + cys__L_p + h2o_c --> adp_c + cys__L_c + h_c + pi_c,ok,ok,ok,CYSabc2pp,N/A
 CYStex,cys__L_e <=> cys__L_p,only when going forwards,ok,ok,ok,N/A
@@ -1037,7 +1037,7 @@ EX_hdca_e,hdca_e --> ,hdca_e,ok,ok,ok,N/A
 EX_hdcea_e,hdcea_e --> ,hdcea_e,ok,ok,ok,N/A
 EX_hg2_e,hg2_e --> ,hg2_e,ok,ok,ok,N/A
 EX_his__L_e,his__L_e --> ,ok,ok,ok,ok,N/A
-EX_hom__L_e,hom__L_e --> ,hom__L_e,ok,ok,ok,N/A
+EX_hom__L_e,hom__L_e --> ,ok,ok,ok,ok,N/A
 EX_hxa_e,hxa_e --> ,ok,ok,ok,ok,N/A
 EX_hxan_e,hxan_e --> ,ok,ok,ok,ok,N/A
 EX_idon__L_e,idon__L_e --> ,ok,ok,ok,ok,N/A
@@ -1589,8 +1589,8 @@ HKNDDH,h2o_c + hkndd_c --> h_c + op4en_c + succ_c,hkndd_c;op4en_c,ok,ok,ok,N/A
 HKNTDH,h2o_c + hkntd_c --> fum_c + h_c + op4en_c,hkntd_c;op4en_c,ok,ok,ok,N/A
 HMBS,h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c,ok,ok,ok,ok,N/A
 HMPK1,4ahmmp_c + atp_c --> 4ampm_c + adp_c + h_c,4ahmmp_c,ok,ok,ok,N/A
-HOMt2pp,h_p + hom__L_c --> h_c + hom__L_p,hom__L_c;hom__L_p,ok,ok,ok,N/A
-HOMtex,hom__L_e <=> hom__L_p,hom__L_e;hom__L_p,ok,ok,ok,N/A
+HOMt2pp,h_p + hom__L_c --> h_c + hom__L_p,ok,ok,ok,ok,N/A
+HOMtex,hom__L_e <=> hom__L_p,only when going forwards,ok,ok,ok,N/A
 HOPNTAL,4h2opntn_c --> acald_c + pyr_c,4h2opntn_c,ok,ok,ok,N/A
 HPACOAT,34dphacoa_c + h2o_c --> 34dhpha_c + coa_c + h_c,34dhpha_c;34dphacoa_c,ok,ok,ok,N/A
 HPPK2,6hmhpt_c + atp_c --> 6hmhptpp_c + amp_c + h_c,ok,ok,ok,ok,N/A
@@ -1601,9 +1601,9 @@ HPYRI,hpyr_c <=> 2h3oppan_c,ok,ok,ok,ok,N/A
 HPYRP,3php_c + h2o_c --> hpyr_c + pi_c,ok,ok,ok,ok,N/A
 HPYRRx,h_c + hpyr_c + nadh_c --> glyc__R_c + nad_c,ok,ok,ok,ok,N/A
 HPYRRy,h_c + hpyr_c + nadph_c --> glyc__R_c + nadp_c,ok,ok,ok,ok,N/A
-HSDy,hom__L_c + nadp_c --> aspsa_c + h_c + nadph_c,hom__L_c,ok,ok,ok,N/A
-HSK,atp_c + hom__L_c --> adp_c + h_c + phom_c,hom__L_c;phom_c,ok,ok,ok,N/A
-HSST,hom__L_c + succoa_c --> coa_c + suchms_c,hom__L_c;suchms_c,ok,ok,ok,N/A
+HSDy,aspsa_c + h_c + nadph_c --> hom__L_c + nadp_c,ok,ok,ok,ok,N/A
+HSK,atp_c + hom__L_c --> adp_c + h_c + phom_c,ok,ok,ok,ok,N/A
+HSST,hom__L_c + succoa_c --> coa_c + suchms_c,ok,ok,ok,ok,N/A
 HSTPT,glu__L_c + imacp_c --> akg_c + hisp_c,ok,ok,ok,ok,N/A
 HXAND,h2o_c + hxan_c + nad_c --> h_c + nadh_c + xan_c,ok,ok,ok,ok,N/A
 HXAtex,hxa_e <=> hxa_p,only when going forwards,ok,ok,ok,N/A
@@ -2472,7 +2472,7 @@ SHCHF,fe2_c + scl_c --> 3.0 h_c + sheme_c,ok,ok,ok,ok,N/A
 SHGO,S2hglut_c + o2_c --> akg_c + h2o2_c,ok,ok,ok,ok,N/A
 SHK3Dr,3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c,only when going backwards,ok,ok,ok,N/A
 SHKK,atp_c + skm_c --> adp_c + h_c + skm5p_c,ok,ok,ok,ok,N/A
-SHSL1,cys__L_c + suchms_c --> cyst__L_c + h_c + succ_c,cyst__L_c;suchms_c,ok,ok,ok,N/A
+SHSL1,cys__L_c + suchms_c --> cyst__L_c + h_c + succ_c,ok,ok,ok,ok,N/A
 SKMt2pp,h_p + skm_p --> h_c + skm_c,skm_p,ok,ok,ok,N/A
 SKMtex,skm_e <=> skm_p,skm_e;skm_p,ok,ok,ok,N/A
 SLNTabcpp,atp_c + h2o_c + slnt_p --> adp_c + h_c + pi_c + slnt_c,slnt_c;slnt_p,ok,ok,ok,N/A
@@ -2500,7 +2500,7 @@ SSALy,h2o_c + nadp_c + sucsal_c --> 2.0 h_c + nadph_c + succ_c,ok,ok,ok,ok,N/A
 SUCASPtpp,asp__L_p + succ_c <=> asp__L_c + succ_p,ok,ok,ok,ok,N/A
 SUCBZL,atp_c + coa_c + sucbz_c --> amp_c + ppi_c + sbzcoa_c,ok,ok,ok,ok,N/A
 SUCBZS,2shchc_c --> h2o_c + sucbz_c,ok,ok,ok,ok,N/A
-SUCCt1pp,succ_p --> succ_c,ok,ok,ok,ok,N/A
+SUCCt1pp,succ_c --> succ_p,ok,ok,ok,ok,N/A
 SUCCt2_2pp,2.0 h_p + succ_p --> 2.0 h_c + succ_c,ok,ok,ok,SUCCt2_3pp,N/A
 SUCCt2_3pp,3.0 h_p + succ_p --> 3.0 h_c + succ_c,ok,ok,ok,SUCCt2_2pp,N/A
 SUCCtex,succ_e <=> succ_p,only when going forwards,ok,ok,ok,N/A
@@ -2552,7 +2552,7 @@ THRA2,athr__L_c --> acald_c + gly_c,ok,ok,ok,ok,N/A
 THRD,nad_c + thr__L_c --> 2aobut_c + h_c + nadh_c,ok,ok,ok,ok,N/A
 THRD_L,thr__L_c --> 2obut_c + nh4_c,ok,ok,ok,ok,N/A
 THRPtex,thrp_e <=> thrp_p,thrp_e;thrp_p,ok,ok,ok,N/A
-THRS,h2o_c + phom_c --> pi_c + thr__L_c,phom_c,ok,ok,ok,N/A
+THRS,h2o_c + phom_c --> pi_c + thr__L_c,ok,ok,ok,ok,N/A
 THRabcpp,atp_c + h2o_c + thr__L_p --> adp_c + h_c + pi_c + thr__L_c,ok,ok,ok,ok,N/A
 THRt2pp,h_p + thr__L_c --> h_c + thr__L_p,ok,ok,ok,THRt2rpp,N/A
 THRt2rpp,h_p + thr__L_p --> h_c + thr__L_c,ok,ok,ok,THRt2pp,N/A
